@@ -1,1 +1,3 @@
 Nội dung đã bị thay đổi
+
+git commit -am: Thay doi noi dung va add
